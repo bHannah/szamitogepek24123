@@ -1,0 +1,9 @@
+import szamitogepek_metodusba_rendezes
+
+szamitogepek = szamitogepek_metodusba_rendezes.listaba_rendezes()
+
+szamitogepek_metodusba_rendezes.listakiiras(szamitogepek)
+szamitogepek_metodusba_rendezes.szamitogepek_szama(szamitogepek)
+szamitogepek_metodusba_rendezes.ramkereses(szamitogepek)
+szamitogepek_metodusba_rendezes.windowsosgepekszama(szamitogepek)
+szamitogepek_metodusba_rendezes.legtobbramos_op_r(szamitogepek)

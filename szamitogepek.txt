@@ -1,0 +1,4 @@
+op_rendszer;ram
+Win;32
+Win;16
+Mac;16
